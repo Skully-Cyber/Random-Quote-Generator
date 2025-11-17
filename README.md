@@ -1,2 +1,2 @@
-# Random-Quote-Generator
-Maybe its your lucky day to find the flag ;)
+# Random Quote Generator
+Returns a random quote each run.
